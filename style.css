@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Roboto&display=swap');
+*{
+    font-family: 'Roboto', sans-serif;
+}
+.nav-link{
+    color: #80391e !important;
+    font-weight: bold !important;
+}
+
+.logo-details{
+    width: 70px;
+}
+
+.banner-background{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
+
+.banner-heading{
+    color: #fff;
+}
+.banner-section-para{
+    color: antiquewhite;
+    font-size: 13px;
+    letter-spacing: 1px;
+}
+
+.banner-first-button{
+    border-style: none;
+    border-radius: 8px;
+    background-color: #d0b200;
+    width: 120px;
+    height: 40px;
+
+}
+.banner-second-button{
+    border-width: 1px;
+    border-color: #d0b200;
+    background-color: transparent;
+    width: 120px;
+    height: 40px;
+    border-radius: 8px;
+    color: #fff;
+}
+
+.explore-menu-image{
+    width: 100%;
+    border-radius: 20px;
+}
+.explore-menu-heading{
+    font-weight: 700;
+    font-size: 25px;
+}
+.explore-menu-card-heading{
+    font-size: 20px;
+}
+
+.ex-menu-card-details{
+    border-radius: 20px !important;
+}
+.wcu-card-image{
+    width: 120px;
+}
+.offers{
+    font-size: 20px;
+    font-style: italic;
+    color: rgb(92, 234, 234);
+}
+
+.delivery-payment-image{
+    width: 370px;
+}
+
+.follow-us-card-bg{
+    background-color: #f4e59d;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+}
+
+.icon-details{
+    font-size: 40px !important;
+    padding-top: 20px;
+}
